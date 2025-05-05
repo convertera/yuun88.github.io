@@ -1,0 +1,4 @@
+modules = ["web", "ruby-3.2"]
+
+[nix]
+channel = "stable-24_05"
